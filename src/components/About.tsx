@@ -70,7 +70,7 @@ const About = () => {
             <div className="absolute inset-0 bg-black/5 rounded-2xl transform rotate-3"></div>
             <div className="relative overflow-hidden rounded-2xl border border-black/10">
               <img 
-                src="public\photo.png" 
+                src="/photo.png" 
                 alt="Gokul GR - Professional Developer" 
                 className="w-full h-[1000px] object-cover filter grayscale hover:grayscale-0 transition-all duration-700"
               />
